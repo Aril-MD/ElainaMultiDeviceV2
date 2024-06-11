@@ -63,7 +63,7 @@ Install this tool first before running the script
 
 ```bash
 git clone https://github.com/Aril-MD/ElainaMultiDeviceV2
-cd ElainaMultiDevice
+cd ElainaMultiDeviceV2
 npm install
 npm update
 ```
